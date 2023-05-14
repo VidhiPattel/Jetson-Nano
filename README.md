@@ -10,3 +10,7 @@ To run this project, you will need the following:
 * Keras
 * OpenCV
 * Jetson Nano
+
+# Usage
+1. Download the https://www.kaggle.com/c/diabetic-retinopathy-detection dataset from Kaggle and extract it to the dataset folder.
+2. 
