@@ -8,6 +8,9 @@ The dataset used for this project is the https://www.kaggle.com/c/diabetic-retin
 To run this project, you will need the following:
 
 * Python 3
+* Numpy
+* Pandas
+* Matplotlib
 * Tensorflow 2
 * Keras
 * OpenCV
