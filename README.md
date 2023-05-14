@@ -5,8 +5,8 @@ The dataset used for this project is the https://www.kaggle.com/c/diabetic-retin
 # Requirements
 To run this project, you will need the following:
 
-Python 3
-Tensorflow 2
-Keras
-OpenCV
-Jetson Nano
+*Python 3
+*Tensorflow 2
+*Keras
+*OpenCV
+*Jetson Nano
